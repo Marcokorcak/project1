@@ -11,14 +11,15 @@ Using the public API https://api.coindesk.com/v1/bpi/currentprice.json
 
 Use the Vite starter + styling of your choosing, i.e., Bootstrap, Tailwind, custom, whichever you are comfortable with, and do the following in a react application:
 
-Have a navbar with sections:
+* Have a navbar with sections:
 
-Current Conversions Rates
-Display the conversion rate in both directions (see here and here and here)
-$ (USD) to BTC, 1 BTC to $
-1 € (EUR) to BTC, 1 BTC to €
-£ (GBP) to BTC, 1 BTC to £
-Conversions
+   * Current Conversions Rates
+  * Display the conversion rate in both directions (see here and here and here)
+  * $ (USD) to BTC, 1 BTC to $
+  * 1 € (EUR) to BTC, 1 BTC to €
+  * £ (GBP) to BTC, 1 BTC to £
+             
+* Conversions
 Allow the user to sort the exchange rates (highest number of fiat to BTC to lowest number of fiat to BTC and reverse) by clicking a button
 Create
 a single SELECT dropdown with selections of Euro, GBP, and USD
