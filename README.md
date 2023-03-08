@@ -40,13 +40,9 @@ The state should include:
 
 The image above shows the current rates page and that is the original page laoded. This is the home page which has the UTC dates/time, local date/time, along with conversions from EUR, GBP, USD to BTC
 
-<img src="https://user-images.githubusercontent.com/77298953/222260861-c878bc73-6752-4044-b71b-5fe6f4506300.png" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/77298953/223836169-dbac49a0-d1f6-4285-a01b-c8b6a517f5c7.png" width=60% height=60%>
 
 The image above shows the result when clicking to increment the value by 5 and the values change on the buttons
-
-<img src="https://user-images.githubusercontent.com/77298953/222260984-dec342ff-c012-46ae-8b53-ad0b43a85a3f.png" width=60% height=60%>
-
-The image above shows the result when setting the value to change by as -3
 
 
 
