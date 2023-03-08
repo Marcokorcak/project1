@@ -42,8 +42,7 @@ The image above shows the current rates page and that is the original page laode
 
 <img src="https://user-images.githubusercontent.com/77298953/223836169-dbac49a0-d1f6-4285-a01b-c8b6a517f5c7.png" width=60% height=60%>
 
-The image above shows the result when clicking to increment the value by 5 and the values change on the buttons
-
+The image above shows the result when the conversions page is clicked and this includes the time (UTC) along with local and then a sorting button to sort the currencies, a conversion input box and a refresh data button
 
 
 
