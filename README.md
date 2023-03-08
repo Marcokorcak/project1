@@ -27,7 +27,7 @@ Use the Vite starter + styling of your choosing, i.e., Bootstrap, Tailwind, cust
   * convert the selected currency and the amount to its value in BTC.
 
 
-  * Always visible, regardless of the section displayed, in the app should be the following:
+Always visible, regardless of the section displayed, in the app should be the following:
 The data date (hint it comes back from the API) should always be visible to the user. Let’s see if you can convert the UTC time to the current browser’s time zone and output both times.
 
 Allow a user to refetch the rate; limit them to once per 5 minutes (that should persist in refreshes; that is, if a user hits refresh, they should not be able to hit refresh again (and be warned if they try) in the same browser (assuming they don’t clear their local data manually) for 5 minutes, regardless if they refresh the browser.
@@ -36,9 +36,9 @@ The state should include:
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/77298953/222260710-2c0499fa-3a70-4cad-bc80-4023787c63f8.png" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/77298953/223835385-06f74477-5564-4afa-9251-599c3bc3c4b9.png" width=60% height=60%>
 
-The image above shows the starting page when the website ir originally loaded, demonstarting the initial state 
+The image above shows the current rates page and that is the original page laoded. This is the home page which has the UTC dates/time, local date/time, along with conversions from EUR, GBP, USD to BTC
 
 <img src="https://user-images.githubusercontent.com/77298953/222260861-c878bc73-6752-4044-b71b-5fe6f4506300.png" width=60% height=60%>
 
