@@ -20,21 +20,18 @@ Use the Vite starter + styling of your choosing, i.e., Bootstrap, Tailwind, cust
   * £ (GBP) to BTC, 1 BTC to £
              
 * Conversions
-Allow the user to sort the exchange rates (highest number of fiat to BTC to lowest number of fiat to BTC and reverse) by clicking a button
-Create
-a single SELECT dropdown with selections of Euro, GBP, and USD
-an input
-convert the selected currency and the amount to its value in BTC.
-Always visible, regardless of the section displayed, in the app should be the following:
+   * Allow the user to sort the exchange rates (highest number of fiat to BTC to lowest number of fiat to BTC and reverse) by clicking a button
+  * Create
+  * a single SELECT dropdown with selections of Euro, GBP, and USD
+  * an input
+  * convert the selected currency and the amount to its value in BTC.
 
+
+  * Always visible, regardless of the section displayed, in the app should be the following:
 The data date (hint it comes back from the API) should always be visible to the user. Let’s see if you can convert the UTC time to the current browser’s time zone and output both times.
+
 Allow a user to refetch the rate; limit them to once per 5 minutes (that should persist in refreshes; that is, if a user hits refresh, they should not be able to hit refresh again (and be warned if they try) in the same browser (assuming they don’t clear their local data manually) for 5 minutes, regardless if they refresh the browser.
 The state should include:
-
-* the current count value
-* the “Number to Increment/Decrement by”
-
-The useReducer hook should be used to update the state whenever the buttons are clicked along with the updating of the “Number to Increment/Decrement by” value.
 
 
 ## Screenshots
